@@ -10,6 +10,8 @@ This is a responsive website design project created using HTML and CSS.
 ## Technologies Used
 - HTML5
 - CSS3
+- Java Script
+- Wordpress
 
 ## How to Run
 1. Download or clone the repository
